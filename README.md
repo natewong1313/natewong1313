@@ -36,7 +36,3 @@ I am a high school student living in Virginia. A full-stack developer who loves 
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=764abc)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel)
-
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natewong1313&show_icons=true&theme=tokyonight)
