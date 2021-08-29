@@ -9,6 +9,7 @@ I am a high school student living in Virginia. A full-stack developer who loves 
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
@@ -32,6 +33,7 @@ I am a high school student living in Virginia. A full-stack developer who loves 
 ![Postgres SQL](https://img.shields.io/badge/-Postgres-000?&logo=postgresql&logoColor=1572B6)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux&logoColor=764abc)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
