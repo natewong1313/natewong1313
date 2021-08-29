@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Nate
-I am a high school student living in Virginia. A full-stack developer who loves to create software for others to enjoy. I love to develop innovative solutions to solve problems. 
+I am an 18 year old college student living in Virginia. A full-stack developer who loves to create software for others to enjoy. I love to develop innovative solutions to solve problems. 
  
- - 💻 I’m currently building [Mercury](https://www.mercuryaio.com/), eccomerce automation software
+ - 💻 I’m currently unemployed
  - 📥 Want to get in touch? Email me at nate@nateskicksllc.com
 
 ## Languages
