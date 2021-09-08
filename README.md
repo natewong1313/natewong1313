@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Nate
-I am an 18 year old college student living in Virginia. A full-stack developer who loves to create software for others to enjoy. I love to develop innovative solutions to solve problems. 
+I am an 18 year old college student living in Virginia. I am a full-stack developer who loves to create software for others to enjoy & develop innovative solutions to solve problems. 
  
- - 💻 I’m currently unemployed
- - 📥 Want to get in touch? Email me at nate@nateskicksllc.com
+ - 💻 &nbsp;&nbsp;I’m currently unemployed
+ - 📥 &nbsp;&nbsp;Want to get in touch? Email me at nate@nateskicksllc.com
 
 ## Languages
 
