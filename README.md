@@ -2,7 +2,7 @@
 I am an 18 year old college student living in Virginia. I am a full-stack developer who loves to create software for others to enjoy & develop innovative solutions to solve problems. 
  
  - 💻 &nbsp;&nbsp;I’m currently unemployed
- - 📥 &nbsp;&nbsp;Want to get in touch? Email me at nate@nateskicksllc.com
+ - 📥 &nbsp;&nbsp;Want to get in touch? Email me at nwong@mail.umw.edu
 
 ## Languages
 
