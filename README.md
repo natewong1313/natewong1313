@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nate
-I am a college student living in Virginia. I love to create software for others to enjoy & develop innovative solutions to solve problems. 
+## hello, i'm nate 👋
+i am currently a college student living in virginia. i've got a few cool open source projects, with more to come once i'm free from the shackles of academia 
  
-Want to get in touch? Email me at nwong@mail.umw.edu
+email me at nwong@mail.umw.edu
