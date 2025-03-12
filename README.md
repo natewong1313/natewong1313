@@ -4,4 +4,9 @@ i am currently a college student living in virginia. i've got a few cool open so
 email me at nwong@mail.umw.edu
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
