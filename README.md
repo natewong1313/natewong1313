@@ -6,7 +6,8 @@ email me at nwong@mail.umw.edu
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C                          ███████████████████████░░   92.63 %
+Makefile                   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
 ```
 
 <!--END_SECTION:waka-->
