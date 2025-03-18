@@ -18,4 +18,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_7_days
           SHOW_TIME: false
+          IGNORED_LANGUAGES: YAML JSON TOML tmux
           
