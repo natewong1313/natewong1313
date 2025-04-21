@@ -1,9 +1,9 @@
 ## hello, i'm nate 👋
-i am currently a college student living in virginia. i've got a few cool open source projects, with more to come once i'm free from the shackles of academia 
- 
-email me at nwong@mail.umw.edu
+i'm currently a college student at a small school in virginia. i love to tinker in go/ts/rust & work on small projects for my homelab.
 
-## my coding stats from this week
+nwong@mail.umw.edu
+
+## coding stats (thx wakatime)
 <!--START_SECTION:waka-->
 
 ```txt
