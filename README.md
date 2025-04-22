@@ -4,7 +4,7 @@ i'm currently a college student at a small school in virginia. i love to tinker 
 nwong@mail.umw.edu <br/>
 https://www.nate-wong.com/
 
-## coding stats (thx wakatime)
+## weekly coding stats
 <!--START_SECTION:waka-->
 
 ```txt
