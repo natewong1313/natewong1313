@@ -8,8 +8,8 @@ https://www.nate-wong.com/
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                   ████████████████████████░   95.35 %
-CSS                          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+TypeScript                   █████████████████████████   99.42 %
+CSS                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
