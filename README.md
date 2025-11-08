@@ -13,9 +13,9 @@ what i coded in this week <br /><br />
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                   ██████████████████▓░░░░░░   75.09 %
-gitignore                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Markdown                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+TypeScript                   ███████████████████▒░░░░░   76.68 %
+gitignore                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Markdown                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
