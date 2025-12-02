@@ -13,9 +13,9 @@ what i coded in this week <br /><br />
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                   ██████████████████████▓░░   90.93 %
-Markdown                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+TypeScript                   ███████████████████████░░   91.86 %
+Markdown                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
